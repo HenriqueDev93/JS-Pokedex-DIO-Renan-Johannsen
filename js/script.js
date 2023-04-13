@@ -23,7 +23,6 @@ fetch (url)
 
 const pokemonList = document.getElementById('pokemonList');
 const button = document.getElementById('loadMoreButton');
-const modal = document.querySelector('.content')
 
 const limit = 20;
 let offset = 0;
